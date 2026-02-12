@@ -16,3 +16,6 @@ Created my first GitHub repository.
 ---
 
 Stay tuned 🔥
+
+### Day 2
+Learning local Git workflow.
